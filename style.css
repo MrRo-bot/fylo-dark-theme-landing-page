@@ -331,6 +331,24 @@ footer {
 
 .email {
   padding: 0.8em 3em;
+  position: relative;
+}
+
+.email:invalid {
+  outline: 2px solid rgb(146, 17, 17);
+}
+
+.error {
+  position: absolute;
+  top: 180px;
+  left: 80px;
+  opacity: 0;
+  color: rgb(190, 25, 25);
+  font-weight: 700;
+}
+
+.email:invalid:focus:not(:placeholder-shown) ~ .error {
+  opacity: 1;
 }
 
 .button-bottom {
