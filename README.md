@@ -14,7 +14,7 @@
 
 ## Overview
 
-Created NEWBIE Fylo Dark theme landing page
+Created JUNIOR Fylo Dark theme landing page
 
 ### The challenge
 
