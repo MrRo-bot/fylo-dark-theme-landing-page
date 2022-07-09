@@ -14,7 +14,7 @@
 
 ## Overview
 
-Creating a Fylo Dark theme landing page
+Created NEWBIE Fylo Dark theme landing page
 
 ### The challenge
 
@@ -26,8 +26,9 @@ Using every CSS basic features
 
 ### Links
 
-- GITHUB REPO: [https://github.com/MrRo-bot/FEM12]
-- Solution URL: [https://codepen.io/Mr-RO13OT/pen/PopYqMz]
+- GITHUB REPO: [https://github.com/MrRo-bot/fylo-dark-theme-landing-page]
+
+- Solution URL: [https://codepen.io/Mr-RO13OT/full/PopYqMz]
 
 ## My process
 
